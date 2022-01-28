@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562336393 source:d:\education\c program\project\number puzzel game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

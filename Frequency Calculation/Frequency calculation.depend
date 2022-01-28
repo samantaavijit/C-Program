@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566708125 source:d:\education\c program\digit to frequency\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566708125 source:d:\education\c program\frequency calculation\main.c
+	<stdio.h>
+	<stdlib.h>
+

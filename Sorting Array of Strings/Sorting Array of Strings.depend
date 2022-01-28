@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566713253 source:d:\education\c program\sorting array of strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
